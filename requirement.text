@@ -1,0 +1,9 @@
+# Computer Vision & AI
+ultralytics
+opencv-python
+
+# Backend & Database
+supabase
+
+# Utilities
+python-dotenv  # Recommended for securing your API keys
